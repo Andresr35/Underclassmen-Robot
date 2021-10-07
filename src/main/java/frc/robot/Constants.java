@@ -13,4 +13,8 @@ package frc.robot;
  * constants are needed, to reduce verbosity.
  */
 // test
-public final class Constants {}
+public final class Constants {
+
+static int joystick = 0,leftJoystick = 1,rightJoystick = 3;
+
+}
